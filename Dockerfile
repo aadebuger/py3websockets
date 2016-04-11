@@ -1,5 +1,5 @@
 from python
-pip install websockets
+run pip install websockets
 run mkdir /code
 workdir /code
 run git clone https://github.com/aaugustin/websockets
